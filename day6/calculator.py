@@ -4,7 +4,7 @@ symbols = "+ , - , * , /"
 last_result = []
 result_operation = 0
 
-
+#this is a test git
 def soma(a, b):
     return a + b
 
